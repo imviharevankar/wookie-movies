@@ -1,0 +1,16 @@
+.home__input {
+  width: 90vw;
+  font-size: 1.2rem;
+  padding: 0.5em 0.75em;
+  border: none;
+  max-width: 600px;
+  margin: 0.5em auto;
+  display: block;
+  background-color: azure;
+}
+
+.home__input:focus {
+  color: #657786;
+  outline: none;
+  border: 1px solid #657786;
+}

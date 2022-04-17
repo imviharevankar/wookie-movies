@@ -1,0 +1,17 @@
+.header {
+  padding: 0 2vw;
+  top: 0;
+  position: sticky;
+  color: whitesmoke;
+  background-color: #1da1f2;
+}
+
+.header__logo {
+  font-weight: 800;
+  font-size: 1.6rem;
+  cursor: pointer;
+}
+
+.header__logo > p {
+  margin: 0;
+}
